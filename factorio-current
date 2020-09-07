@@ -1,1 +1,90 @@
 
+   0.000 2020-09-07 12:18:43; Factorio 1.0.0 (build 54889, win64, steam)
+   0.000 Operating system: Windows 10 (version 2004) 
+   0.000 Program arguments: "C:\Program Files (x86)\Steam\steamapps\common\Factorio\bin\x64\Factorio.exe" 
+   0.000 Read data path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/data
+   0.000 Write data path: C:/Users/araki/AppData/Roaming/Factorio [615713/959590MB]
+   0.000 Binaries path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/bin
+   0.020 System info: [CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, 8 cores, RAM: 4353/32586 MB, page: 5866/37450 MB, virtual: 4328/134217727 MB, extended virtual: 0 MB]
+   0.020 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.024 Available displays: 1
+   0.024  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 2070 SUPER {0x05, [0,0], 1920x1080, 32bit, 60Hz}
+   0.164 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.338 Initialised Direct3D[0]: NVIDIA GeForce RTX 2070 SUPER; id: 10de-1e84; driver: nvldumdx.dll 27.21.14.5206
+   0.338   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.338   [Local Video Memory] Budget: 7243MB, CurrentUsage: 5MB, Reservation: 0/3749MB
+   0.338   [Non-Local Vid.Mem.] Budget: 15525MB, CurrentUsage: 0MB, Reservation: 0/7890MB
+   0.338   Tiled resources: Tier 2
+   0.338   Unified Memory Architecture: No
+   0.338   BGR 565 Supported: Yes
+   0.338   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.338 Graphics settings preset: very-high
+   0.338   Dedicated video memory size 8011 MB
+   0.401 Desktop composition is active.
+   0.401 Graphics options: [Graphics quality: high] [Video memory usage: all] [Light scale: 100%] [DXT: high-quality] [Color: 32bit]
+   0.401                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   0.681 DSound: Starting _dsound_update thread
+   0.681 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   0.681 DSound: Enter _dsound_update; tid=13840
+   0.808 Loading mod core 0.0.0 (data.lua)
+   0.936 Loading mod base 1.0.0 (data.lua)
+   1.609 Loading mod base 1.0.0 (data-updates.lua)
+   1.737 Checksum for core: 2630831588
+   1.737 Checksum of base: 3509992273
+   1.991 Prototype list checksum: 3301461508
+   2.027 Loading sounds...
+   5.810 Info PlayerData.cpp:70: Local player-data.json unavailable
+   5.810 Info PlayerData.cpp:73: Cloud player-data.json available, timestamp 1598471126
+   5.966 Initial atlas bitmap size is 16384
+   5.997 Created atlas bitmap 16384x16384 [none]
+   6.001 Created atlas bitmap 16384x13392 [none]
+   6.001 Created atlas bitmap 8192x4188 [decal]
+   6.002 Created atlas bitmap 16384x5600 [low-object, linear-minification]
+   6.003 Created atlas bitmap 8192x3744 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   6.003 Created atlas bitmap 16384x5920 [terrain, mipmap, linear-minification, linear-mip-level]
+   6.004 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   6.004 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   6.004 Created atlas bitmap 4096x3104 [mipmap]
+   6.005 Created atlas bitmap 4096x2336 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   6.005 Created atlas bitmap 2048x224 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   6.006 Created atlas bitmap 8192x1428 [alpha-mask]
+   6.008 Created atlas bitmap 16384x14888 [shadow, linear-magnification, alpha-mask]
+   6.009 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   6.016 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   9.553 Parallel Sprite Loader initialized (threads: 7)
+  14.521 Sprites loaded
+  14.554 Generated mipmaps (4) for atlas [3] of size 16384x5600   
+  14.565 Generated mipmaps (3) for atlas [4] of size 8192x3744   
+  14.587 Generated mipmaps (3) for atlas [5] of size 16384x5920   
+  14.598 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  14.609 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  14.639 Generated mipmaps (3) for atlas [8] of size 4096x3104   
+  14.650 Generated mipmaps (5) for atlas [9] of size 4096x2336   
+  14.662 Generated mipmaps (3) for atlas [13] of size 8192x2352   
+  14.666 Custom mipmaps uploaded.
+  14.744 Factorio initialised
+  28.885 Loading map C:\Users\araki\AppData\Roaming\Factorio\saves\This is it.zip: 5390684 bytes.
+  29.061 Loading level.dat: 12801391 bytes.
+  29.064 Info Scenario.cpp:187: Map version 1.0.0-0
+  29.274 Loading script.dat: 427 bytes.
+  29.298 Checksum for script C:/Users/araki/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 3931528263
+  90.386 Info AppManagerStates.cpp:1837: Saving finished
+ 121.834 Info AppManager.cpp:298: Saving to _autosave1 (blocking).
+ 122.097 Info AppManagerStates.cpp:1837: Saving finished
+ 211.984 Info AppManagerStates.cpp:1837: Saving finished
+ 446.668 Info AppManager.cpp:298: Saving to _autosave2 (blocking).
+ 446.936 Info AppManagerStates.cpp:1837: Saving finished
+ 574.117 Quitting: user-quit.
+ 574.180 DSound: Stopping voice
+ 574.180 DSound: Joining thread
+ 574.182 DSound: Exit _dsound_update; tid=13840
+ 574.182 DSound: Waiting for voice to stop ... signaled
+ 574.182 DSound: Joined thread
+ 574.182 DSound: Destroying thread
+ 574.182 DSound: Thread destroyed
+ 574.182 DSound: Releasing buffer
+ 574.182 DSound: Voice stopped
+ 574.182 DSound: Deallocating voice
+ 574.182 DSound: Deallocated voice
+ 574.264 Steam API shutdown.
+ 574.267 Goodbye
